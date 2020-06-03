@@ -1,4 +1,4 @@
-AIRO_ID,Roll_No,Off_Name,Add_1,Add_2,Add_3,Add_4,County,Ethos,Island,DEIS,Gaeltacht,M_13_14,F_13_14,T_13_14,xcoord,ycoord,Long,Lat,Sex
+AIRO_ID,Roll_No,Off_Name,Add_1,Add_2,Add_3,Add_4,County,Ethos,Island,DEIS,Gaeltacht,Male,Female,Total,xcoord,ycoord,Long,Lat,Sex
 1,00651R,BORRIS MXD N S,BORRIS,CO CARLOW,,,Carlow,CATHOLIC,N,N,N,100,94,194,273199.0,150324.0,-6.919560000000001,52.5993,Mixed
 2,00977B,BALLYCONNELL N S,Ballyconnell,Tullow,Co Carlow,,Carlow,CATHOLIC,N,N,N,80,79,159,292481.0,174367.0,-6.62828,52.8124,Mixed
 3,01116A,BAILE AN CHUILINN N S,MUINEBEAG,CO CARLOW,,,Carlow,CATHOLIC,N,N,N,56,55,111,272463.0,155784.0,-6.9292300000000004,52.6485,Mixed
